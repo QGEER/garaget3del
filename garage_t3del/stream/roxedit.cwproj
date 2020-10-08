@@ -1,0 +1,15 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>parking_rox.ymap</Item>
+    <Item>hei_id2_11_strm_0.ymap</Item>
+    <Item>hei_id2_rd_long_0.ymap</Item>
+    <Item>hei_id2_rd_critical_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+</CodeWalkerProject>
